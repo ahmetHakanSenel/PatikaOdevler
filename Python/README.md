@@ -1,8 +1,8 @@
-#Başlık: Veri Biliminin Geleceği
+# Başlık: Veri Biliminin Geleceği
 
 Merhaba Arkadaşlar! Günümüzde veri bilimi, hayatımızın her alanını derinden etkiliyor. İleride bu alanda neler olabileceğine bir göz atalım.
 
-##Veri Bilimi Nedir?
+## Veri Bilimi Nedir?
 
 Öncelikle, veri bilimi nedir? Kısaca, verileri toplama, analiz etme ve anlam çıkarma işlemidir. Ancak buradaki büyü, bu verilerin büyüklüğü ve potansiyelidir.
 
