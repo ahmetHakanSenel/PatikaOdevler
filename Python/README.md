@@ -4,13 +4,13 @@ Merhaba Arkadaşlar! Günümüzde veri bilimi, hayatımızın her alanını deri
 
 ## Veri Bilimi Nedir?
 
-Öncelikle, veri bilimi nedir? Kısaca, verileri toplama, analiz etme ve anlam çıkarma işlemidir. Ancak buradaki büyü, bu verilerin büyüklüğü ve potansiyelidir.
+Öncelikle, veri bilimi nedir? Kısaca, verileri toplama, analiz etme ve anlam çıkarma işlemidir. Ancak buradaki kilit nokta, bu verilerin büyüklüğü ve potansiyelidir.
 
-##Veri Bilimi'nin Rolü
+## Veri Bilimi'nin Rolü
 
 Veri bilimi, geleceği tahmin etmemize, sorunları çözmemize ve akıllı kararlar almamıza yardımcı olur. Örneğin, sağlık sektöründe hastalık kontrolünde, perakende sektöründe stok yönetiminde kullanılır.
 
-##Gelecekte Neler Olacak?
+## Gelecekte Neler Olacak?
 
 Veri bilimi gelecekte daha fazla öneme sahip olacak. İşte bazı örnekler:
 
